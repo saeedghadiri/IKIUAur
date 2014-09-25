@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+    
+    
+
+    <location>
+        <name>فنی</name>
+        <lat>36.321098</lat>
+        <long>50.011251</long>
+        <alt>0</alt>
+    </location>
+
+
+    <location>
+        <name>پایه</name>
+        <lat>36.320171</lat>
+        <long>50.010484</long>
+        <alt>1372</alt>
+    </location>
+    
+    <location>
+        <name>انسانی</name>
+        <lat>36.320633</lat>
+        <long>50.008425</long>
+        <alt>1373</alt>
+    </location>
+
+    <location>
+        <name>معماری</name>
+        <lat>36.323548</lat>
+        <long>50.009568</long>
+        <alt>1381</alt>
+    </location>
+    
+
+
+</locations>
+
+</locations>
